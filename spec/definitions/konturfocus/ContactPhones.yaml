@@ -1,0 +1,9 @@
+type: object
+properties:
+  count:
+    description: Кол-во найденных контактных телефонов
+    type: integer
+  phones:
+    type: array
+    items:
+      type: string

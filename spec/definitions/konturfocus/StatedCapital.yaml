@@ -1,0 +1,7 @@
+type: object
+description: Уставный капитал
+properties:
+  sum:
+    type: integer
+  date:
+    type: string
