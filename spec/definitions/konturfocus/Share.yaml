@@ -4,6 +4,7 @@ properties:
   sum:
     description: Сумма в рублях
     type: integer
+    format: int64
   percentagePlain:
     description: Размер доли в процентах
     type: integer
