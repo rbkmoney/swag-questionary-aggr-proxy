@@ -6,5 +6,5 @@ allOf:
       responses:
         type: array
         items:
-          $ref: '#/definitions/LicencesResponses'
+          $ref: '#/definitions/LicencesResponse'
 
