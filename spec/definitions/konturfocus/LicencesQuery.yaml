@@ -2,8 +2,6 @@ type: object
 allOf:
   - $ref: '#/definitions/KonturFocusRequest'
   - type: object
-    required:
-      - inn
     properties:
       inn:
         type: array
