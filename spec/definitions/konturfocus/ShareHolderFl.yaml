@@ -10,7 +10,7 @@ properties:
     description: Доля обыкновенных акций в процентах
     type: number
   capitalSharesPercent:
-    description: Доля участия в уставном каптале в процентах
+    description: Доля участия в уставном капитале в процентах
     type: number
   date:
     type: string
